@@ -254,6 +254,90 @@
                 <langSet xml:lang="en"><tig><term>Block</term></tig></langSet>
                 <langSet xml:lang="ko_kr"><tig><term>블록</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Aluminum</term></tig></langSet>
+                <langSet xml:lang="ko_kr"><tig><term>알루미늄</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Platinum</term></tig></langSet>
+                <langSet xml:lang="ko_kr"><tig><term>백금</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Slate</term></tig></langSet>
+                <langSet xml:lang="ko_kr"><tig><term>심층암</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Nether</term></tig></langSet>
+                <langSet xml:lang="ko_kr"><tig><term>네더</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>End</term></tig></langSet>
+                <langSet xml:lang="ko_kr"><tig><term>엔드</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Iridium</term></tig></langSet>
+                <langSet xml:lang="ko_kr"><tig><term>이리듐</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Molten</term></tig></langSet>
+                <langSet xml:lang="ko_kr"><tig><term>녹은</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Nickel</term></tig></langSet>
+                <langSet xml:lang="ko_kr"><tig><term>니켈</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Osmium</term></tig></langSet>
+                <langSet xml:lang="ko_kr"><tig><term>오스뮴</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Zinc</term></tig></langSet>
+                <langSet xml:lang="ko_kr"><tig><term>아연</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Uranium</term></tig></langSet>
+                <langSet xml:lang="ko_kr"><tig><term>우라늄</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Invar</term></tig></langSet>
+                <langSet xml:lang="ko_kr"><tig><term>인바</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Brass</term></tig></langSet>
+                <langSet xml:lang="ko_kr"><tig><term>황동</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Constantan</term></tig></langSet>
+                <langSet xml:lang="ko_kr"><tig><term>콘스탄탄</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Enderium</term></tig></langSet>
+                <langSet xml:lang="ko_kr"><tig><term>엔더리움</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Lumium</term></tig></langSet>
+                <langSet xml:lang="ko_kr"><tig><term>루미움</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Signalum</term></tig></langSet>
+                <langSet xml:lang="ko_kr"><tig><term>시그날룸</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Gold</term></tig></langSet>
+                <langSet xml:lang="ko_kr"><tig><term>금</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Diamond</term></tig></langSet>
+                <langSet xml:lang="ko_kr"><tig><term>다이아몬드</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Gear</term></tig></langSet>
+                <langSet xml:lang="ko_kr"><tig><term>기어</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Rod</term></tig></langSet>
+                <langSet xml:lang="ko_kr"><tig><term>막대</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
