@@ -250,6 +250,10 @@
                 <langSet xml:lang="en"><tig><term>Creative</term></tig></langSet>
                 <langSet xml:lang="ko_kr"><tig><term>크리에이티브</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Block</term></tig></langSet>
+                <langSet xml:lang="ko_kr"><tig><term>블록</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
