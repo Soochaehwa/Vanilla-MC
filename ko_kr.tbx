@@ -336,7 +336,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Rod</term></tig></langSet>
-                <langSet xml:lang="ko_kr"><tig><term>막대기</term></tig></langSet>
+                <langSet xml:lang="ko_kr"><tig><term>막대</term></tig></langSet>
             </termEntry>
         </body>
     </text>
