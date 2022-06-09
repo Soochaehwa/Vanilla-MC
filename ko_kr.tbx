@@ -622,6 +622,10 @@
                 <langSet xml:lang="en"><tig><term>Peridot</term></tig></langSet>
                 <langSet xml:lang="ko_kr"><tig><term>감람석</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Chest</term></tig></langSet>
+                <langSet xml:lang="ko_kr"><tig><term>상자</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
