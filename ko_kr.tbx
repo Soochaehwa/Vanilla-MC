@@ -338,6 +338,290 @@
                 <langSet xml:lang="en"><tig><term>Rod</term></tig></langSet>
                 <langSet xml:lang="ko_kr"><tig><term>막대</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Slurry</term></tig></langSet>
+                <langSet xml:lang="ko_kr"><tig><term>슬러리</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Log</term></tig></langSet>
+                <langSet xml:lang="ko_kr"><tig><term>원목</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Acacia</term></tig></langSet>
+                <langSet xml:lang="ko_kr"><tig><term>아카시아나무</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Plank</term></tig></langSet>
+                <langSet xml:lang="ko_kr"><tig><term>판자</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Allthemodium</term></tig></langSet>
+                <langSet xml:lang="ko_kr"><tig><term>올더모듐</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Amethyst</term></tig></langSet>
+                <langSet xml:lang="ko_kr"><tig><term>자수정</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Andesite</term></tig></langSet>
+                <langSet xml:lang="ko_kr"><tig><term>안산암</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Basalt</term></tig></langSet>
+                <langSet xml:lang="ko_kr"><tig><term>현무암</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Birch</term></tig></langSet>
+                <langSet xml:lang="ko_kr"><tig><term>자작나무</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Blackstone</term></tig></langSet>
+                <langSet xml:lang="ko_kr"><tig><term>흑암</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Clay</term></tig></langSet>
+                <langSet xml:lang="ko_kr"><tig><term>점토</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Coal</term></tig></langSet>
+                <langSet xml:lang="ko_kr"><tig><term>석탄</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Deepslate</term></tig></langSet>
+                <langSet xml:lang="ko_kr"><tig><term>심층암</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>cobbled</term></tig></langSet>
+                <langSet xml:lang="ko_kr"><tig><term>조약돌</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Cobblestone</term></tig></langSet>
+                <langSet xml:lang="ko_kr"><tig><term>조약돌</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Dark Oak</term></tig></langSet>
+                <langSet xml:lang="ko_kr"><tig><term>짙은 참나무</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Diorite</term></tig></langSet>
+                <langSet xml:lang="ko_kr"><tig><term>섬록암</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Dirt</term></tig></langSet>
+                <langSet xml:lang="ko_kr"><tig><term>흙</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Emerald</term></tig></langSet>
+                <langSet xml:lang="ko_kr"><tig><term>에메랄드</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Stone</term></tig></langSet>
+                <langSet xml:lang="ko_kr"><tig><term>돌</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Ender</term></tig></langSet>
+                <langSet xml:lang="ko_kr"><tig><term>엔더</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Pearl</term></tig></langSet>
+                <langSet xml:lang="ko_kr"><tig><term>진주</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Glass</term></tig></langSet>
+                <langSet xml:lang="ko_kr"><tig><term>유리</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Glowstone</term></tig></langSet>
+                <langSet xml:lang="ko_kr"><tig><term>발광석</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Granite</term></tig></langSet>
+                <langSet xml:lang="ko_kr"><tig><term>화강암</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Grass</term></tig></langSet>
+                <langSet xml:lang="ko_kr"><tig><term>잔디</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Gravel</term></tig></langSet>
+                <langSet xml:lang="ko_kr"><tig><term>자갈</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Hay Block</term></tig></langSet>
+                <langSet xml:lang="ko_kr"><tig><term>건초 더미</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Honey</term></tig></langSet>
+                <langSet xml:lang="ko_kr"><tig><term>꿀</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Lapis</term></tig></langSet>
+                <langSet xml:lang="ko_kr"><tig><term>청금석</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Melon</term></tig></langSet>
+                <langSet xml:lang="ko_kr"><tig><term>수박</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Oak</term></tig></langSet>
+                <langSet xml:lang="ko_kr"><tig><term>참나무</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Obsidian</term></tig></langSet>
+                <langSet xml:lang="ko_kr"><tig><term>흑요석</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Podzol</term></tig></langSet>
+                <langSet xml:lang="ko_kr"><tig><term>회백토</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Pumpkin</term></tig></langSet>
+                <langSet xml:lang="ko_kr"><tig><term>호박</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Quartz</term></tig></langSet>
+                <langSet xml:lang="ko_kr"><tig><term>석영</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Red Sand</term></tig></langSet>
+                <langSet xml:lang="ko_kr"><tig><term>붉은 모래</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Redstone</term></tig></langSet>
+                <langSet xml:lang="ko_kr"><tig><term>레드스톤</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Sand</term></tig></langSet>
+                <langSet xml:lang="ko_kr"><tig><term>모래</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Snow</term></tig></langSet>
+                <langSet xml:lang="ko_kr"><tig><term>눈</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Soul</term></tig></langSet>
+                <langSet xml:lang="ko_kr"><tig><term>영혼</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Soil</term></tig></langSet>
+                <langSet xml:lang="ko_kr"><tig><term>흙</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Spruce</term></tig></langSet>
+                <langSet xml:lang="ko_kr"><tig><term>가문비나무</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Terracotta</term></tig></langSet>
+                <langSet xml:lang="ko_kr"><tig><term>테라코타</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Unobtainium</term></tig></langSet>
+                <langSet xml:lang="ko_kr"><tig><term>언옵타늄</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Alloy</term></tig></langSet>
+                <langSet xml:lang="ko_kr"><tig><term>합금</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Vibranium</term></tig></langSet>
+                <langSet xml:lang="ko_kr"><tig><term>비브라늄</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Wax</term></tig></langSet>
+                <langSet xml:lang="ko_kr"><tig><term>밀랍</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Tuff</term></tig></langSet>
+                <langSet xml:lang="ko_kr"><tig><term>응회암</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Advanced</term></tig></langSet>
+                <langSet xml:lang="ko_kr"><tig><term>고급</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Comparator</term></tig></langSet>
+                <langSet xml:lang="ko_kr"><tig><term>비교기</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Corn</term></tig></langSet>
+                <langSet xml:lang="ko_kr"><tig><term>옥수수</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Soup</term></tig></langSet>
+                <langSet xml:lang="ko_kr"><tig><term>수프</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Bread</term></tig></langSet>
+                <langSet xml:lang="ko_kr"><tig><term>빵</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Salad</term></tig></langSet>
+                <langSet xml:lang="ko_kr"><tig><term>샐러드</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>beetroot</term></tig></langSet>
+                <langSet xml:lang="ko_kr"><tig><term>비트</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Leather</term></tig></langSet>
+                <langSet xml:lang="ko_kr"><tig><term>가죽</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Coil</term></tig></langSet>
+                <langSet xml:lang="ko_kr"><tig><term>코일</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Basic</term></tig></langSet>
+                <langSet xml:lang="ko_kr"><tig><term>기본</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Elite</term></tig></langSet>
+                <langSet xml:lang="ko_kr"><tig><term>엘리트</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Ultimate</term></tig></langSet>
+                <langSet xml:lang="ko_kr"><tig><term>궁극</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Blutonium</term></tig></langSet>
+                <langSet xml:lang="ko_kr"><tig><term>블루토늄</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Cyanite</term></tig></langSet>
+                <langSet xml:lang="ko_kr"><tig><term>남정석</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Graphite</term></tig></langSet>
+                <langSet xml:lang="ko_kr"><tig><term>흑연</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>control rod</term></tig></langSet>
+                <langSet xml:lang="ko_kr"><tig><term>제어봉</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Reactor</term></tig></langSet>
+                <langSet xml:lang="ko_kr"><tig><term>원자로</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Fuel Rod</term></tig></langSet>
+                <langSet xml:lang="ko_kr"><tig><term>연료봉</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Certus</term></tig></langSet>
+                <langSet xml:lang="ko_kr"><tig><term>서투스</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Ruby</term></tig></langSet>
+                <langSet xml:lang="ko_kr"><tig><term>루비</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Sapphire</term></tig></langSet>
+                <langSet xml:lang="ko_kr"><tig><term>사파이어</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Peridot</term></tig></langSet>
+                <langSet xml:lang="ko_kr"><tig><term>감람석</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
