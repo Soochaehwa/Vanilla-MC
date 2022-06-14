@@ -630,6 +630,10 @@
                 <langSet xml:lang="en"><tig><term>Bricks</term></tig></langSet>
                 <langSet xml:lang="ko_kr"><tig><term>벽돌</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>slab</term></tig></langSet>
+                <langSet xml:lang="ko_kr"><tig><term>반 블록</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
