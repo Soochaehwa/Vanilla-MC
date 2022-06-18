@@ -638,6 +638,114 @@
                 <langSet xml:lang="en"><tig><term>Port</term></tig></langSet>
                 <langSet xml:lang="ko_kr"><tig><term>포트</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Speed</term></tig></langSet>
+                <langSet xml:lang="ko_kr"><tig><term>속도 증가</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Slowness</term></tig></langSet>
+                <langSet xml:lang="ko_kr"><tig><term>속도 감소</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Haste</term></tig></langSet>
+                <langSet xml:lang="ko_kr"><tig><term>성급함</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Mining Fatigue</term></tig></langSet>
+                <langSet xml:lang="ko_kr"><tig><term>채굴 피로</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Strength</term></tig></langSet>
+                <langSet xml:lang="ko_kr"><tig><term>힘</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Instant Health</term></tig></langSet>
+                <langSet xml:lang="ko_kr"><tig><term>즉시 치유</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Instant Damage</term></tig></langSet>
+                <langSet xml:lang="ko_kr"><tig><term>즉시 피해</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Jump Boost</term></tig></langSet>
+                <langSet xml:lang="ko_kr"><tig><term>점프 강화</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Nausea</term></tig></langSet>
+                <langSet xml:lang="ko_kr"><tig><term>멀미</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Regeneration</term></tig></langSet>
+                <langSet xml:lang="ko_kr"><tig><term>재생</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Resistance</term></tig></langSet>
+                <langSet xml:lang="ko_kr"><tig><term>저항</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Fire Resistance</term></tig></langSet>
+                <langSet xml:lang="ko_kr"><tig><term>화염 저항</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Water Breathing</term></tig></langSet>
+                <langSet xml:lang="ko_kr"><tig><term>수중 호흡</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Invisibility</term></tig></langSet>
+                <langSet xml:lang="ko_kr"><tig><term>투명</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Blindness</term></tig></langSet>
+                <langSet xml:lang="ko_kr"><tig><term>실명</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Night Vision</term></tig></langSet>
+                <langSet xml:lang="ko_kr"><tig><term>야간 투시</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Hunger</term></tig></langSet>
+                <langSet xml:lang="ko_kr"><tig><term>허기</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Weakness</term></tig></langSet>
+                <langSet xml:lang="ko_kr"><tig><term>나약함</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Poison</term></tig></langSet>
+                <langSet xml:lang="ko_kr"><tig><term>독</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Wither</term></tig></langSet>
+                <langSet xml:lang="ko_kr"><tig><term>시듦</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Health Boost</term></tig></langSet>
+                <langSet xml:lang="ko_kr"><tig><term>생명력 강화</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Absorption</term></tig></langSet>
+                <langSet xml:lang="ko_kr"><tig><term>흡수</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Saturation</term></tig></langSet>
+                <langSet xml:lang="ko_kr"><tig><term>포화</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Glowing</term></tig></langSet>
+                <langSet xml:lang="ko_kr"><tig><term>발광</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Luck</term></tig></langSet>
+                <langSet xml:lang="ko_kr"><tig><term>행운</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Levitation</term></tig></langSet>
+                <langSet xml:lang="ko_kr"><tig><term>공중 부양</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Slow Falling</term></tig></langSet>
+                <langSet xml:lang="ko_kr"><tig><term>느린 낙하</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
