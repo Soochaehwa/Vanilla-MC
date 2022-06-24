@@ -746,6 +746,34 @@
                 <langSet xml:lang="en"><tig><term>Slow Falling</term></tig></langSet>
                 <langSet xml:lang="ko_kr"><tig><term>느린 낙하</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Prismarine Door</term></tig></langSet>
+                <langSet xml:lang="ko_kr"><tig><term>프리즈머린</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Purpur Door</term></tig></langSet>
+                <langSet xml:lang="ko_kr"><tig><term>퍼퍼</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Prismarine</term></tig></langSet>
+                <langSet xml:lang="ko_kr"><tig><term>프리즈머린</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Purpur</term></tig></langSet>
+                <langSet xml:lang="ko_kr"><tig><term>퍼퍼</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Sandstone</term></tig></langSet>
+                <langSet xml:lang="ko_kr"><tig><term>사암</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Red Sandstone</term></tig></langSet>
+                <langSet xml:lang="ko_kr"><tig><term>붉은 사암</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Mossy</term></tig></langSet>
+                <langSet xml:lang="ko_kr"><tig><term>이끼 낀 조약돌 문</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
