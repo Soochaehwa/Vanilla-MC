@@ -774,6 +774,34 @@
                 <langSet xml:lang="en"><tig><term>Mossy</term></tig></langSet>
                 <langSet xml:lang="ko_kr"><tig><term>이끼 낀</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Stone Bricks</term></tig></langSet>
+                <langSet xml:lang="ko_kr"><tig><term>석재 벽돌</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Netherrack</term></tig></langSet>
+                <langSet xml:lang="ko_kr"><tig><term>네더랙</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Stone Brick</term></tig></langSet>
+                <langSet xml:lang="ko_kr"><tig><term>석재 벽돌</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Cracked</term></tig></langSet>
+                <langSet xml:lang="ko_kr"><tig><term>금 간</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Brick</term></tig></langSet>
+                <langSet xml:lang="ko_kr"><tig><term>벽돌</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Moss</term></tig></langSet>
+                <langSet xml:lang="ko_kr"><tig><term>이끼</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Stairs</term></tig></langSet>
+                <langSet xml:lang="ko_kr"><tig><term>계단</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
