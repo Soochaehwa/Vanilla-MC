@@ -747,10 +747,6 @@
                 <langSet xml:lang="ko_kr"><tig><term>느린 낙하</term></tig></langSet>
             </termEntry>
             <termEntry>
-                <langSet xml:lang="en"><tig><term>Prismarine Door</term></tig></langSet>
-                <langSet xml:lang="ko_kr"><tig><term>프리즈머린</term></tig></langSet>
-            </termEntry>
-            <termEntry>
                 <langSet xml:lang="en"><tig><term>Prismarine</term></tig></langSet>
                 <langSet xml:lang="ko_kr"><tig><term>프리즈머린</term></tig></langSet>
             </termEntry>
