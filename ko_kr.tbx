@@ -794,6 +794,14 @@
                 <langSet xml:lang="en"><tig><term>Stairs</term></tig></langSet>
                 <langSet xml:lang="ko_kr"><tig><term>계단</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Titanium</term></tig></langSet>
+                <langSet xml:lang="ko_kr"><tig><term>티타늄</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Sludge</term></tig></langSet>
+                <langSet xml:lang="ko_kr"><tig><term>슬러지</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
